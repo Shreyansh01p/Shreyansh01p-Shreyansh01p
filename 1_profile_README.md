@@ -1,6 +1,6 @@
-# Hi, I'm John Doe 👋
+# Hi, I'm Shreyansh Patel 👋
 
-### Cybersecurity & Information Technology Professional | CS Graduate | Based in Leamington, ON 🍁
+### Cybersecurity & Information Technology Professional | CS Graduate | Based in Brampton, ON 🍁
 
 > Passionate about securing digital infrastructure, ethical hacking, and building tools that protect people's data. Currently seeking a Security & Information Technologist role.
 
