@@ -13,7 +13,6 @@
 - 🌱 Currently studying for **CompTIA Security+** certification
 - 🎯 Practicing on **TryHackMe** and **HackTheBox** labs daily
 - 💼 Open to work — entry-level cybersecurity & IT roles
-- 📍 Leamington, ON, Canada
 
 ---
 
